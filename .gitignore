@@ -12,3 +12,4 @@ coverage.json
 migrations/
 .secret
 truffle-config.js
+*.js

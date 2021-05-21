@@ -1,14 +1,14 @@
 # contracts
 
-FOOT Token : 
+AWE Token : 
 
-Address : 0x2c154926B8a6bDE338BD8B9CE281e6D32Ba64193
+Address : 0x6080EF4A615F8961Cf5d37aC16648aFce5204F45
 
-BSC contract code : https://bscscan.com/address/0x2c154926B8a6bDE338BD8B9CE281e6D32Ba64193#code
+BSC contract code : https://bscscan.com/address/0x6080EF4A615F8961Cf5d37aC16648aFce5204F45#code
 
-FOOT Masterchef : 
+AWE Masterchef : 
 
-Address : 0xd5844A33A20AC07e465716d6E493d813a128DaF9
+Address : 0xa4822177Ce5698c1F10E1c67FE5900e4cC1dD3D4
 
-BSC contract code : https://bscscan.com/address/0xd5844A33A20AC07e465716d6E493d813a128DaF9#code
+BSC contract code : https://bscscan.com/address/0xa4822177Ce5698c1F10E1c67FE5900e4cC1dD3D4#code
 

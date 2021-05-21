@@ -7,10 +7,10 @@
     "compile": "truffle compile --network testnet",
     "test": "npx builder test",
     "coverage": "npx builder coverage",
-    "flatten": "truffle-flattener contracts/SPACEToken.sol > flatten-contracts/SPACEToken.sol && truffle-flattener contracts/SPACEMasterChef.sol > flatten-contracts/SPACEMasterChef.sol && truffle-flattener contracts/SPACEMasterChefV2.sol > flatten-contracts/SPACEMasterChefV2.sol && truffle-flattener contracts/SPACELottery.sol > flatten-contracts/SPACELottery.sol && truffle-flattener contracts/Timelock.sol > flatten-contracts/Timelock.sol && node flatten_fix.js"
+    "flatten": "truffle-flattener contracts/SPACEToken.sol > flatten-contracts/SPACEToken.sol && truffle-flattener contracts/SPACEMasterChef.sol > flatten-contracts/SPACEMasterChef.sol && truffle-flattener contracts/SPACEMasterChefV2.sol > flatten-contracts/SPACEMasterChefV2.sol && truffle-flattener contracts/SPACELottery.sol > flatten-contracts/SPACELottery.sol && truffle-flattener contracts/Timelock.sol > flatten-contracts/Timelock.sol && truffle-flattener contracts/SmartChef.sol > flatten-contracts/SmartChef.sol && node flatten_fix.js"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.0.0",
+    "@openzeppelin/contracts": "^3.2.0",
     "@openzeppelin/test-helpers": "^0.5.6",
     "truffle": "^5.1.58",
     "truffle-flattener": "^1.4.4",
